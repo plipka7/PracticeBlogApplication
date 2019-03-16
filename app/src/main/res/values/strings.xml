@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticeBlogApplication</string>
+    <string name="blog_button">Add a new blog</string>
+    <string name="title_activity_add_blog">addBlog</string>
+    <string name="full_name">Full Name</string>
+    <string name="blog">Blog</string>
+    <string name = "submit">Submit Blog</string>
+    <string name = "blog_error">There was an error with your blog submission!</string>
+</resources>
